@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/nexus",
+  "packageVersion": "1.0.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/nexus",
+  "usageRepository": "https://github.com/x12i-sdk/nexus",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Compile a small evidence-backed graph draft without a datastore",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:45:46.101711+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "11562c8bab5eaad24aec67d80762811297d2fa9cd4980f348e33ea94f42467bf",
+    "manifestSha256": "e93741b4b643d394f068d706b75719a1bbe485d5492ccc2dbc3ed8b708bdc735"
+  }
+}
